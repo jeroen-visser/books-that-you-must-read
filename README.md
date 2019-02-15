@@ -1,7 +1,7 @@
 # books-that-you-must-read
 
 ### Currently Reading
-- Domain-Driven Design — Eric Evans
+- The 7 Habits of Highly Effective People - Dr. Stephen Covey
 
 ### Todo
 - Working Effectively with Legacy Code — Michael Feathers
@@ -9,6 +9,7 @@
 - Refactoring to Patterns - Joshua Kerievsky
 
 ### Done
++ Domain-Driven Design — Eric Evans
 + Thinking, Fast and Slow — Daniel Kahneman
 + Patterns of Enterprise Application Architecture - Martin Fowler
 + Site Reliability Engineering
