@@ -1,14 +1,17 @@
 # books-that-you-must-read
 
 ### Currently Reading
-- The 7 Habits of Highly Effective People - Dr. Stephen Covey
+- It doesn't have to be crazy at work - Jason Fried
 
 ### Todo
+- ReWork - Jason Fried
+- Remote - Jason Fried
 - Working Effectively with Legacy Code — Michael Feathers
 - Refactoring — Martin Fowler
 - Refactoring to Patterns - Joshua Kerievsky
 
 ### Done
++ The 7 Habits of Highly Effective People - Dr. Stephen Covey
 + Domain-Driven Design — Eric Evans
 + Thinking, Fast and Slow — Daniel Kahneman
 + Patterns of Enterprise Application Architecture - Martin Fowler
